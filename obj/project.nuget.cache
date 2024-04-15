@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kreJYsEk+NW73SOg3zOFpxhzwvR4vDpRYzkZnGJDc3cz7iLlERbMTg1XvlWbDxm6DqhMj2vog73Rd3syWJI4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The admin(me)\\Documents\\BTD6 Mod Sources\\TestingMod\\TestingMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The admin(me)\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\The admin(me)\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\The admin(me)\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
